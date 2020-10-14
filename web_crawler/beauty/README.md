@@ -11,7 +11,7 @@
 
 ## Hint
 
-* 表特版的 base url：https://webptt.com/m.aspx?n=bbs/Beauty/。
+* 表特版的 base url：https://webptt.com/m.aspx?n=bbs/Beauty/
 * 表特版的 html 名稱格式為：index + \<數字，介於 2250 ~ 2264\> + .html
 * io package 中的 BytesIO 函式可以讀入影像字串。
 * skimage package 的 imread, imshow, show 分別可以讀入影像、設定影像參數以及印出影像。

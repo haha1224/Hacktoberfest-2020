@@ -10,7 +10,7 @@
 
 ## Hint
 
-* Youtube 不分類熱門影片的 base url：https://www.youtube.com.tw/feed/trending。
+* Youtube 不分類熱門影片的 base url：https://www.youtube.com.tw/feed/trending
 * 如果有用到 selenium，executable_path 記得要設定成絕對值。
 * Headless Chrome Driver 可以用以下設定達成。
 

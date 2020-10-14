@@ -10,4 +10,4 @@
 
 ## Hint
 
-* 統一發票的 base url：https://bluezz.com.tw/。
+* 統一發票的 base url：https://bluezz.com.tw/

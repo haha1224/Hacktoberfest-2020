@@ -10,4 +10,4 @@
 
 ## Hint
 
-* 台灣彩券的 base url：https://www.taiwanlottery.com.tw/index_new.aspx#。
+* 台灣彩券的 base url：https://www.taiwanlottery.com.tw/index_new.aspx#
